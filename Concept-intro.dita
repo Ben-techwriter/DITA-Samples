@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_n34_5dr_r3c" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
+    <title>Introduction to DITA</title>
+    <shortdesc>This is a high level overviewo of Darwin Information Typing Architecture</shortdesc>
+    <conbody>
+        
+        <p>DITA (Darwin Information Typing Architecture) is an XML-based architecture used to create structured, reusable, and modular technical content.</p>
+        
+        <p>DITA supports topic-based authoring, meaning each topic covers a single idea and can be reused across multiple deliverables.</p>
+        
+        <note type="tip">DITA is widely used in software documentation, manufacturing, healthcare, and other industries.</note>
+        
+    </conbody>
+</concept>

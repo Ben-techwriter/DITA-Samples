@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task id="create topic"> xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:task.xsd">
+    <title>How to Create a DITA topic in Oxygen XML</title>
+    <shortdesc>This task explains the steps to create a DITA topic using oxygen xml</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open Oxygen XML Editor</cmd>
+            </step>
+            <step>
+                <cmd>Go to <uicontrol>File -> New </uicontrol> and select the desired DITA topic type.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a file name and choose a file location.</cmd>
+            </step>
+            <step>
+                <cmd>Add content in Author or Text mode.</cmd>
+            </step>
+            <step>
+                <cmd>Validate the file using the <uicontrol>Validate</uicontrol>action.</cmd>
+            </step>
+        </steps>
+                <result>You have successfully created a DITA topic</result>
+    </taskbody>
+</task>

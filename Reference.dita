@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reference id="ditaElements"> xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:reference.xsd">
+    <title>Common DITA Elements</title>
+    <shortdesc>This reference lists frequently used DITA Elements and their purposes.</shortdesc>
+    <refbody>
+    <section>
+        <title>Simpletable Example</title>
+        <simpletable>
+            <sthead>
+                <stentry>Element</stentry>
+                <stentry>Description</stentry>
+            </sthead>
+            <strow>
+                <stentry>p</stentry>
+                <stentry>paragraph element</stentry>
+            </strow>
+            <strow>
+                <stentry>note</stentry>
+                <stentry>Displays important information</stentry>
+            </strow>
+        </simpletable>
+    </section></refbody>
+</reference>
