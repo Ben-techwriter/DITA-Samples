@@ -3,8 +3,14 @@
     xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd">
     <title>Introduction to DITA</title>
     <shortdesc>This is a high level overviewo of Darwin Information Typing Architecture</shortdesc>
+         <prolog>
+            <author>Benila Susan Jacob</author><copyright><copyryear year="2026"></copyryear><copyrholder>This documentation project is free to redistribute and modify.</copyrholder></copyright> 
+            <critdates>
+                <created date="2026-03-23"/>
+            </critdates>
+            <metadata> <keywords> <indexterm>dita</indexterm> </keywords> </metadata>
+        </prolog>
     <conbody>
-        
         <p>DITA (Darwin Information Typing Architecture) is an XML-based architecture used to create structured, reusable, and modular technical content.</p>
         
         <p>DITA supports topic-based authoring, meaning each topic covers a single idea and can be reused across multiple deliverables.</p>
