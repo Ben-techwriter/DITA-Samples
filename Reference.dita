@@ -4,11 +4,11 @@
     <title>Common DITA Elements</title>
     <shortdesc>This reference lists frequently used DITA Elements and their purposes.</shortdesc>
     <prolog>
-    <author>Felicity Brand</author>
+    <author>Benila Susan Jacob</author>
     <critdates>
       <created date="${date(yyyy-MM-dd)}"/>
     </critdates>
-  <metadata> <keywords> <indexterm>dimensions</indexterm> </keywords> </metadata>
+  <metadata> <keywords> <indexterm>Dita elements</indexterm> </keywords> </metadata>
  </prolog> 
     <refbody>
     <section>
